@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\src\\projects\\plant-reco\\Saloon Classifier\\build\\app\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\src\\projects\\plant-reco\\Saloon Classifier\\android\\app\\src\\main\\res\\values-night\\styles.xml",
+                    "from": {
+                        "startLines": "3,-1",
+                        "startColumns": "4,-1",
+                        "startOffsets": "175,-1",
+                        "endLines": "7,-1",
+                        "endColumns": "12,-1",
+                        "endOffsets": "482,-1"
+                    },
+                    "to": {
+                        "startLines": "2,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,363",
+                        "endLines": "6,9",
+                        "endColumns": "12,12",
+                        "endOffsets": "358,527"
+                    }
+                }
+            ]
+        }
+    ]
+}
